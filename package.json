@@ -1,0 +1,24 @@
+{
+  "name": "ember-clock-example",
+  "version": "0.0.1",
+  "description": "A demostration of ember pure component patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eacaps/ember-clock-example.git"
+  },
+  "keywords": [
+    "ember",
+    "component",
+    "functional"
+  ],
+  "author": "eacaps",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/eacaps/ember-clock-example/issues"
+  },
+  "homepage": "https://github.com/eacaps/ember-clock-example#readme"
+}
