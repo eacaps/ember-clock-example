@@ -1,0 +1,7 @@
+{{#containers/time-container as |t|}}
+  {{simple-clock
+    theTime=t.theTime
+    militaryFormat=t.militaryFormat
+    toggleDisplay=(action t.toggleDisplay)
+  }}
+{{/containers/time-container}}
